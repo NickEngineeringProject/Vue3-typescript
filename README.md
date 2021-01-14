@@ -1,5 +1,7 @@
 # guide
 
+#Vue3 + typescript + store
+
 ## Project setup
 ```
 npm install
